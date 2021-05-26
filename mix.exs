@@ -33,7 +33,7 @@ defmodule Jwt.Mixfile do
       {:cowboy, "~> 2.8"},
       {:plug, "~> 1.10"},
       {:stash, "~> 1.0"},
-      {:timex, "~> 3.6.1"}
+      {:timex, "~> 3.6"}
     ]
   end
 end
